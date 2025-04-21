@@ -12,5 +12,3 @@ while True:
             print("Número fuera del rango válido de puertos.")
     except ValueError:
         print("Ingrese un numero de puerto valido") 
-    
-    
