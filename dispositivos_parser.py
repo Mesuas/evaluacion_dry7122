@@ -6,3 +6,4 @@ try:
     print("Informacion de Dispositivos:\n")
     for 
     
+    
